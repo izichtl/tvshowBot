@@ -1,5 +1,12 @@
 ## Mastodon-Tv Séries-Bot 
 Mastodon-bot TvShow's generator.
+
+
+### Links
+* [Site](https://botmast.herokuapp.com/) projectPage.
+* [Mastodon](https://botsin.space/@tvshow) Bot page.
+
+
 ### Installation
 
 Install client_keys
