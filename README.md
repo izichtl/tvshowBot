@@ -1,4 +1,4 @@
-## Node/Mongo RESTFul 
+## Mastodon-Tv Séries-Bot 
 Mastodon-bot TvShow's generator.
 ### Installation
 
