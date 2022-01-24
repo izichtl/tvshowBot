@@ -17,7 +17,7 @@ app.get('/', function(req, res) {
 });
 app.get('/gerador', async function (req, res) {
     console.log("Got a GET request for the homepage");
-    await getSerie();
+    // await getSerie();
 
     
     res.sendFile(path.join(__dirname + '/geraSerie.html'));
