@@ -6,7 +6,7 @@ const { getSerie } = require('./getSerie.js')
 
 
 bot()
-const timeInterval = 1000 * 60 * 60 * 3 
+const timeInterval = 1000 * 60 * 60 * 48 
 setInterval(bot, timeInterval)
 
 app.use('/image', express.static('img'));
